@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76d0111bfc3c44ce805b0f49f2838b65, type: 3}
+  m_Name: DefaultAudioContainer
+  m_EditorClassIdentifier: 
+  musicSounds:
+  - name: croco
+    volume: 0.25
+    clip: {fileID: 8300000, guid: 9513c3123d836c14796427ee30291d34, type: 3}
+  sfxSounds:
+  - name: gay
+    volume: 0.25
+    clip: {fileID: 8300000, guid: 20b43138b8fce7d4b9d377556b61a016, type: 3}
